@@ -4,7 +4,7 @@
 [![R Release](https://img.shields.io/badge/R-3.6.2-brightgreen)](https://cran.r-project.org/)
 [![bedtools Release](https://img.shields.io/badge/bedtools-v2.25.0-brightgreen)](https://github.com/arq5x/bedtools2)
 [![Samtools Release](https://img.shields.io/badge/samtools-v1.9-brightgreen)](http://www.htslib.org/)
-[![plink Release](https://img.shields.io/badge/plink-1.9-beta-brightgreen)](https://www.cog-genomics.org/plink/)
+[![plink Release](https://img.shields.io/badge/plink-1.9-beta-brightgreen)](https://www.cog-genomics.org/plink/）
 
 
 ### Pan-cancer GWAS APA analysis
