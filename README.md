@@ -1,8 +1,11 @@
 # CancerAPA
-[![Github Release](https://img.shields.io/badge/release-v1.1-brightgreen)](https://github.com/3UTR/3aQTL-pipe)
-[![python Release](https://img.shields.io/badge/python-3.8-brightgreen)](https://www.python.org/downloads/)
-[![R Release](https://img.shields.io/badge/R-3.6.3-brightgreen)](https://cran.r-project.org/)
-[![DOI](https://zenodo.org/badge/480019097.svg)](https://zenodo.org/badge/latestdoi/480019097)
+[![Github Release](https://img.shields.io/badge/release-v1.0-brightgreen)](https://github.com/3UTR/CancerAPA)
+[![python Release](https://img.shields.io/badge/python-2.7.14-brightgreen)](https://www.python.org/downloads/)
+[![R Release](https://img.shields.io/badge/R-3.6.2-brightgreen)](https://cran.r-project.org/)
+[![bedtools Release](https://img.shields.io/badge/bedtools-v2.25.0-brightgreen)](https://github.com/arq5x/bedtools2)
+[![Samtools Release](https://img.shields.io/badge/samtools-v1.9-brightgreen)](http://www.htslib.org/)
+[![plink Release](https://img.shields.io/badge/plink-1.9-beta-brightgreen)](https://www.cog-genomics.org/plink/)
+
 
 ### Pan-cancer GWAS APA analysis
 Analysis shared by ["A distinct class of pan-cancer susceptibility genes revealed by alternative polyadenylation transcriptome-wide association study"](https://medrxiv.org/cgi/content/short/2023.02.28.23286554v1)
