@@ -7,7 +7,7 @@
 
 In this study, we performed the first large-scale and systematic analysis assessing the genetic effects of APA on 25 cancer types in 49 human tissues from the Genotype-Tissue Expression(GTEx).
 
-This repository contains all source code for the analyses in manuscript ["Pan-cancer GWAS analysis".](https://medrxiv.org/cgi/content/short/2023.02.28.23286554v1
+This repository contains all source code for the analyses in manuscript ["Pan-cancer GWAS analysis".](https://medrxiv.org/cgi/content/short/2023.02.28.23286554v1)
 
 # To run the code
 ### Install the dependencies
