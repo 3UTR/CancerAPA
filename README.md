@@ -11,13 +11,24 @@ This repository contains all source code for the analyses in manuscript ["Pan-ca
 
 # To run the code
 ## Install the dependencies
-1. `Python (version >= v2.7.14)`
-2. `R (v3.6.2)`
-3. `PEER (v1.3), https://github.com/PMBio/peer`
-4. `bedtools (v2.25.0-119-ga0dc5db)`
-5. `samtools (v1.9)`
-6. `plink 1.9 beta`
+R packages
+* `Python (version >= v2.7.14)`
+* `R (v3.6.2)`
+* `PEER (v1.3)`
+* `data table`
+* `coloc`
 
+Python modules
+* numpy
+* scipy
+
+Unix packages
+* tabix
+
+External software
+* `bedtools (v2.25.0-119-ga0dc5db)`
+* `samtools (v1.9)`
+* `plink 1.9 beta`
 
 ## Outline of the analyses
 
