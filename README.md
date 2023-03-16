@@ -16,29 +16,32 @@ R packages
 * `R (v3.6.2)`
 * `PEER (v1.3)`
 * `data table`
-* `coloc`
+* `coloc(v5.2.1)`
 
 Python modules
-* numpy
-* scipy
+* `numpy`
+* `scipy`
 
 Unix packages
-* tabix
+* `tabix(v1.7)`
 
 External software
-* `bedtools (v2.25.0-119-ga0dc5db)`
-* `samtools (v1.9)`
+* `bedtools (v2.30.0)`
+* `samtools (v1.10)`
 * `plink 1.9 beta`
 
 ## Outline of the analyses
 
-### GWAS clump and fine-mapping
+### 1.GWAS clump and fine-mapping
 * GWAS clump using [plink](https://www.cog-genomics.org/plink/) and fine-mapping using [CAUSALdb](https://github.com/mulinlab/CAUSALdb-finemapping-pip)
 
-### Estimate heritability and genetic correlation
+### 2.Estimate heritability and genetic correlation
 * GWAS heritabiltiy estimates and genetic correlaiton using [LDSC](https://github.com/bulik/ldsc)
 
-### 3'aQTL mapping
+### 3. APA quantification
+* APA quantification using [DarPars2]()
+
+### 4. 3'aQTL mapping
 * 3aQTL calling and fine-mapping using [CAVIAR](https://github.com/fhormoz/caviar)
 
 ### Analysis of 3'aQTL enrichment in cancer GWAS signals
@@ -54,7 +57,7 @@ External software
 
 ## Authors
 
-Hui Chen, Zeyang Wang, Lei Li
+Hui Chen, Zeyang Wang, Jia Wang, Wenyan Chen, Xuelian Ma, Xudong Zou, Mireya Plass, Cheng Lian, Ting Ni, Gong-Hong Wei,  Wei Li, Lin Deng, Lei Li
 
 Institute of Systems and Physical Biology, Shenzhen Bay Laboratory, Shenzhen 518055, China
 
