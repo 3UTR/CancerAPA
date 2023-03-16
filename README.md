@@ -10,7 +10,7 @@ In this study, we performed the first large-scale and systematic analysis assess
 This repository contains all source code for the analyses in manuscript ["Pan-cancer GWAS analysis".](https://medrxiv.org/cgi/content/short/2023.02.28.23286554v1)
 
 # To run the code
-### Install the dependencies
+## Install the dependencies
 1. `Python (version >= v2.7.14)`
 2. `R (v3.6.2)`
 3. `PEER (v1.3), https://github.com/PMBio/peer`
@@ -19,11 +19,21 @@ This repository contains all source code for the analyses in manuscript ["Pan-ca
 6. `plink 1.9 beta`
 
 
-### Outline of the analyses
+## Outline of the analyses
+
+### GWAS clump and fine-mapping
 * GWAS clump using [plink](https://www.cog-genomics.org/plink/) and fine-mapping using [CAUSALdb](https://github.com/mulinlab/CAUSALdb-finemapping-pip)
+
+### Estimate heritability and genetic correlation
 * GWAS heritabiltiy estimates and genetic correlaiton using [LDSC](https://github.com/bulik/ldsc)
+
+### 3'aQTL mapping
 * 3aQTL calling and fine-mapping using [CAVIAR](https://github.com/fhormoz/caviar)
+
+### Analysis of 3'aQTL enrichment in cancer GWAS signals
 * Integreation of cancer GWAS and 3aQTLs to assess the 3aQTL for their contributions to disease susceptibility
   * Partitioned heritabiltiy estimates using [LDSC](https://github.com/bulik/ldsc) and heritablity enrichment esitimates using [fgwas](https://github.com/joepickrell/fgwas)
+  
+### Build and run 3aTWAS model
   * Transcriptome-wide association analysis using [FUSION](http://gusevlab.org/projects/fusion/)
   
