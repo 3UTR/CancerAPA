@@ -15,8 +15,9 @@ R packages
 * `Python (version >= v2.7.14)`
 * `R (v3.6.2)`
 * `PEER (v1.3)`
-* `data table`
+* `data.table`
 * `coloc(v5.2.1)`
+* `glmnet`
 
 Python modules
 * `numpy`
@@ -29,6 +30,7 @@ External software
 * `bedtools (v2.30.0)`
 * `samtools (v1.10)`
 * `plink 1.9 beta`
+* ``
 
 ## Outline of the analyses
 
