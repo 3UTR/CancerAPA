@@ -37,3 +37,25 @@ This repository contains all source code for the analyses in manuscript ["Pan-ca
 ### Build and run 3aTWAS model
   * Transcriptome-wide association analysis using [FUSION](http://gusevlab.org/projects/fusion/)
   
+
+
+
+
+## Authors
+
+Hui Chen, Zeyang Wang, Lei Li
+
+Institute of Systems and Physical Biology, Shenzhen Bay Laboratory, Shenzhen 518055, China
+
+## Citation
+* Code and Execution:
+
+
+
+
+
+## Contact
+For any issues, please create a GitHub Issue.
+
+## Funding
+This work was supported by National Natural Science Foundation of China (no. 32100533) and startup funds from Shenzhen Bay Laboratory to L.L.
